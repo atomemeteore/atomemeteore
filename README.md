@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atomemeteore
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning scRNA-seq
+- 🌱 I’m currently learning phylogenetics
 - 💞️ I’m looking to collaborate on spatial transcriptomics
 - 📫 How to reach me alexisnguyen97@yahoo.fr
 - 😄 Pronouns: He/Him
