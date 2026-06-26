@@ -2,4 +2,4 @@
 - Hi, I’m @atomemeteore
 - I’m interested in bioinformatics
 - I’m currently learning phylogenetics
-- 📫 How to reach me alexisnguyen97@yahoo.fr
+- 📫 How to reach me: alexisnguyen97@yahoo.fr / alexis.nguyen@univ-grenoble-alpes.fr 
